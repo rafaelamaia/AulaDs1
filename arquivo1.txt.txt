@@ -1,3 +1,7 @@
 g
 alteraçãp
+<<<<<<< HEAD
 alteração2
+=======
+alteração2_
+>>>>>>> 07e4c848aecef7fb7e8638da88d5e3d5aaf4ca74
